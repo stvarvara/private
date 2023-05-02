@@ -979,8 +979,8 @@ ul {
   margin-bottom: 1rem;
 }
 @media screen and (max-width: 600px){
-  .projet .btn-con{
-    margin-bottom: 20%;
+   .projet{
+    padding-bottom: 20%;
   }
   
 }
